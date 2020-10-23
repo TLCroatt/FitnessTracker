@@ -40,5 +40,5 @@ Morgan
 ---
 
 ## Links
-[https://limitless-island-48136.herokuapp.com/](#https://limitless-island-48136.herokuapp.com/)\
-[https://github.com/TLCroatt/FitnessTracker](#https://github.com/TLCroatt/FitnessTracker)
+[https://limitless-island-48136.herokuapp.com/](https://limitless-island-48136.herokuapp.com/)\
+[https://github.com/TLCroatt/FitnessTracker](https://github.com/TLCroatt/FitnessTracker)
